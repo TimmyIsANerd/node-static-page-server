@@ -1,0 +1,22 @@
+{
+  "name": "static-page-server",
+  "version": "1.0.0",
+  "description": "Node Static Page Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimmyIsANerd/node-static-page-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimmyIsANerd/node-static-page-server/issues"
+  },
+  "homepage": "https://github.com/TimmyIsANerd/node-static-page-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
